@@ -1,0 +1,1 @@
+INSERT INTO book (id, publishingdate, title, version) VALUES (1000, '2008-05-08', 'A book', 0);
